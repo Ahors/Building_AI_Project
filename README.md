@@ -4,7 +4,7 @@ Final project for the Building AI course
 
 ## Summary
 
-The project would include a person keeping a journal (on their phone etc.) about their macronutrient intakes and activities. The AI would recommend spesific additions or deductions to the diet based on the given information.
+The project would include a person keeping a journal (on their phone etc.) about their macronutrient intakes and activities. The AI would recommend spesific additions or deductions to the diet based on the given information. Building AI course project.
 
 
 ## Background
